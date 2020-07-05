@@ -62,7 +62,7 @@ def main():
     # Console to enter the values needed
 
     print("#################################")
-    print("SDN AUTOMATION CONTROLLER SCRIPT")
+    print("SDN CONTROLLER AUTOMATION SCRIPT")
     print("#################################")
 
     serial_1 = input("Enter serial port nº1: ")  # Set serial 1
